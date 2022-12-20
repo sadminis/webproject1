@@ -522,6 +522,7 @@ body.section-switching.up .animation-block{
 /*=======================================================
 	About Section
 =======================================================*/
+
 .about-section{
 	background:#B8A081;
 }
@@ -771,6 +772,10 @@ body.section-switching.up .animation-block{
 /*=======================================================
 	Resume Section
 =======================================================*/
+.resume-section{
+	background:#fffee9;
+}
+
 .timeline-block .section-header{
 	margin-bottom:80px;
 }
@@ -823,6 +828,7 @@ body.section-switching.up .animation-block{
 	left:-48px;
 }
 .timeline > li > .timeline-content > h4{
+	color: #a53e42;
 	margin:0;
 	margin-bottom:5px;
 }
@@ -900,6 +906,10 @@ body.section-switching.up .animation-block{
 /*=======================================================
 	Portfolio Section
 =======================================================*/
+.portfolio-section{
+	background:#d5d9d8;
+}
+
 .portfolio-block .section-header{
 	margin-bottom:80px;
 }
@@ -959,7 +969,7 @@ body.section-switching.up .animation-block{
 	bottom:0;
 	right:-10px;
 	left:-10px;
-	background:#303F9F;
+	background:#513819;
 	opacity:.9;
 	-webkit-transform:rotate(0deg) scale(0);
 	-moz-transform:rotate(0deg) scale(0);
@@ -1017,7 +1027,7 @@ body.section-switching.up .animation-block{
 }
 /*== Project Popup ==*/
 .mfp-bg{
-	background:#303F9F;
+	background:#747674;
 }
 .my-mfp-zoom-in .zoom-anim-dialog {
 	opacity: 0;
@@ -1145,6 +1155,10 @@ body.section-switching.up .animation-block{
 /*=======================================================
 	Contact Section
 =======================================================*/
+.cont-section{
+	background:#d5d9d8;
+}
+
 .contact-block .section-header{
 	margin-bottom:80px;
 }
