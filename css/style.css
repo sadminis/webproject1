@@ -142,8 +142,8 @@ body.border-dark .menu-btn > .lines > span{
 }
 .main-content > .page-border{
 	position:absolute;
-	border:solid 1px #FFF;
-	border-color:rgba(255,255,255,.4);
+	border:solid 0px #7F2CCB;
+	border-color:#FAFFFF;
 	z-index:999;
 	-webkit-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	-moz-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
@@ -249,8 +249,8 @@ body.border-dark .main-content:after{
 	left:0;
 	height:100%;
 	width:100%;
-	background:	#0D100E;
-	opacity:.8;
+	background:	#FAFFFF;
+	opacity:0.8;
 	z-index:-1;
 }
 .intro-text{
@@ -259,7 +259,7 @@ body.border-dark .main-content:after{
 }
 .intro-text > h1{
 	margin:0;
-	color:#FFF;
+	color:#212427;
 	text-transform:uppercase;
 	font-weight:900;
 	letter-spacing:8px;
@@ -267,8 +267,7 @@ body.border-dark .main-content:after{
 }
 .intro-text > p{
 	font-size:18px;
-	color:#FFF;
-	color:rgba(255,255,255,.8);
+	color:#112A46;
 	margin-top:15px;
 	margin-bottom:0;
 	font-weight:300;
@@ -282,11 +281,11 @@ body.border-dark .main-content:after{
 	margin:0 15px;
 }
 a.btn-custom{
-	color:#FFF;
+	color:#112A46;
 	text-decoration:none;
 }
 .btn-custom{
-	color:#FFF;
+	color:#112A46;
 	letter-spacing:4px;
 	text-transform:uppercase;
 	text-decoration:none;
@@ -331,8 +330,8 @@ a.btn-custom{
 	right:0;
 	bottom:0;
 	z-index:2;
-	border:solid 1px #FFF;
-	border-color:rgba(255,255,255,.8);
+	border:solid 1px #112A46;
+	border-color:1A1B25;
 }
 .btn-custom:hover:after{
 	opacity:1;
@@ -524,7 +523,7 @@ body.section-switching.up .animation-block{
 =======================================================*/
 
 .about-section{
-	background:#B8A081;
+	background:#FAFFFF;
 }
 .about-block .section-header{
 	color:#0D100E;
@@ -773,7 +772,7 @@ body.section-switching.up .animation-block{
 	Resume Section
 =======================================================*/
 .resume-section{
-	background:#fffee9;
+	background:#CBF3F0;
 }
 
 .timeline-block .section-header{
@@ -907,7 +906,7 @@ body.section-switching.up .animation-block{
 	Portfolio Section
 =======================================================*/
 .portfolio-section{
-	background:#d5d9d8;
+	background:#CBF3F0;
 }
 
 .portfolio-block .section-header{
