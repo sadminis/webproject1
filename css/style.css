@@ -77,6 +77,29 @@ img{
 /*=======================================================
 	Menu
 =======================================================*/
+
+
+.container{
+	position: relative;
+	z-index: 1000;
+}
+
+.nav-item > a{
+	color:#FFF;
+	color:rgba(255,255,255,.6);
+	font-size:18px;
+	font-weight:700;
+	text-decoration:none;
+	text-transform:uppercase;
+	letter-spacing:4px;
+	padding:10px 0;
+	margin:2px 0;
+	display:block;
+}
+
+
+
+
 body.border-dark .menu-btn > .lines > span{
 	background:#513819;
 }
