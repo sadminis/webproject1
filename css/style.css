@@ -936,7 +936,10 @@ body.section-switching.up .animation-block{
 }
 
 .carousel-indicators {
-	flex-grow: 1;
+	display: block;
+	left: none;
+	margin-left: none;
+	margin-right: none;
 }
 
 .portfolio-section{
