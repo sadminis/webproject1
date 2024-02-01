@@ -942,6 +942,11 @@ body.section-switching.up .animation-block{
 	margin-right: none;
 }
 
+#myCarousel {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
 .portfolio-section{
 	background:#ededed;
 	min-width:100%;
